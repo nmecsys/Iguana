@@ -2,11 +2,11 @@
 // Database configuration 
 // Informacoes de acess
 $settings = array(
-  'driver'    => 'mysql',
-  'host'      => '107.180.12.115',
-  'database'  => 'classificador_de_noticias',
-  'username'  => 'admin_classif',
-  'password'  => '123123',
+  'driver'    => '',
+  'host'      => '',
+  'database'  => '',
+  'username'  => '',
+  'password'  => '',
   'charset'   => 'utf8',
   'collation' => 'utf8_unicode_ci',
   'prefix'    => ''
